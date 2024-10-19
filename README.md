@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Raja Sur!
 
-Welcome to my GitHub portfolio! I'm an experienced Software Engineer with over 4 years of expertise in developing high-quality software solutions. I’m proficient in **Python, Java, and Go**, with a strong focus on **cloud technologies, REST APIs**, and automation. I enjoy building scalable applications and systems that drive business value and enhance performance.
+Welcome to my GitHub portfolio! I'm an experienced Software Engineer with over 4 years and 6 months of expertise in developing high-quality software solutions. I’m proficient in **Python, Java, and Go**, with a strong focus on **cloud technologies, REST APIs**, and automation. I enjoy building scalable applications and systems that drive business value and enhance performance.
 
 ---
 
 ## 🚀 Projects
 
-### 1. [OpsGpt Implementation](https://github.com/rajasur/OpsGpt)
+### 1. OpsGpt Implementation
 - **Description**: Developed an LLM-powered chatbot using Python and HANA Vector DB, automating L1-level support tasks.
 - **Impact**: Reduced manual intervention by 40%.
 - **Technologies**: Python, HANA Vector DB
@@ -15,8 +15,6 @@ Welcome to my GitHub portfolio! I'm an experienced Software Engineer with over 4
 - **Description**: Built Python scripts and automation to optimize cloud infrastructure costs in AWS.
 - **Impact**: Achieved a **53%** reduction in cloud expenses by automating resource cleanup tasks.
 - **Technologies**: Python, AWS, Automation
-
-*(Add more projects from your resume as needed)*
 
 ---
 
